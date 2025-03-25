@@ -1,1 +1,1 @@
-# analysis
+See the Wiki.
